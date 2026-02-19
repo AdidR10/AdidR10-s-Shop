@@ -1,0 +1,14 @@
+.slider {
+	position: relative;
+}
+
+.slider img {
+	vertical-align: middle;
+}
+
+/* Slideshow container */
+.slideshow-container {
+	max-width: 1000px;
+	position: absolute;
+	margin: auto;
+}

@@ -1,0 +1,17 @@
+.product-item img {
+	height: auto;
+	max-width: 200px;
+	max-height: 250px;
+}
+
+.image-container {
+	height: 250px;
+	max-width: 250px;
+	&:hover {
+		opacity: 0.85;
+	}
+}
+
+.product-item {
+	position: relative;
+}
